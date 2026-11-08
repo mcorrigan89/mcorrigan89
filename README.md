@@ -15,10 +15,6 @@ shadcn registries: you install the components’ source into your project and ow
 - **[Phosphor](https://mcorrigan89.github.io/phosphor/)**: a retro-terminal design system for React. Glowing type, panels and instrument-style readouts for dense dashboards.
 - **[Headway](https://mcorrigan89.github.io/headway-ui/)**: a design system after the New York City subway’s signage: black sign bands, route colours, bullets and strip maps. ([code](https://github.com/mcorrigan89/headway-ui))
 
-### Tools and other projects
+### Tools
 
 - **[Prototype Comments](https://github.com/mcorrigan89/prototype_comments)**: Figma-style comments for static prototypes, from one script tag. Reviewers pin comments to any element, reply, @mention and resolve threads.
-- **[Photo Salon](https://github.com/mcorrigan89/photo_salon)**: a multi-tenant app for photography clubs to run monthly salon competitions, with blind judging, scoring and slideshows.
-- **[Syndicate](https://github.com/mcorrigan89/syndicate)**: a social deduction game platform, starting with an Avalon-style mission game. Go, Huma and Postgres.
-- **[template-cli](https://github.com/mcorrigan89/template-cli)**: scaffolds production-ready TypeScript monorepos with pnpm workspaces.
-- **Analytics**: my own cookieless web analytics for the sites above. A Cloudflare Worker collects events into ClickHouse, with no cookies and no IPs kept.
